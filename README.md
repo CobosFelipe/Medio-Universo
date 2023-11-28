@@ -4,3 +4,4 @@ Este va a ser un repositorio que usaremos para explotarlo y sacar errores
 Soy inevitable
 # Sara
 Error de ramas
+# Probando el comando git stash
